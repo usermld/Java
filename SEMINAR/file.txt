@@ -1,0 +1,12 @@
+file.txt
+hello_world.java
+log.txt
+log.txt.lck
+Task3.java
+Task4.java
+Task5.java
+Task6.java
+Task7.java
+Task8.java
+Task9.java
+test.txt

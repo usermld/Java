@@ -1,0 +1,8 @@
+февр. 22, 2024 9:36:15 PM SEMINAR.Task9 writeToFile
+INFO: done
+февр. 22, 2024 9:39:28 PM SEMINAR.Task9 writeToFile
+WARNING: Error writing file
+февр. 22, 2024 9:40:02 PM SEMINAR.Task9 writeToFile
+WARNING: Error writing file
+февр. 22, 2024 9:40:21 PM SEMINAR.Task9 writeToFile
+INFO: done
