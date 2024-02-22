@@ -6,3 +6,5 @@ WARNING: Error writing file
 WARNING: Error writing file
 февр. 22, 2024 9:40:21 PM SEMINAR.Task9 writeToFile
 INFO: done
+февр. 22, 2024 9:41:29 PM SEMINAR.Task9 writeToFile
+INFO: done
